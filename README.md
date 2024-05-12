@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AstroFXDEV
+- 👀 I’m interested in JavaScrit
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on Astropeda Projects
+- 📫 How to reach me danielfx0010@gmail.com
+- ⚡ Fun fact: Lol
